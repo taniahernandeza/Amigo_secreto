@@ -25,7 +25,7 @@ Los usuarios pueden encontrar ayuda y soporte sobre el proyecto en varias fuente
 
 **Repositorio de GitHub:** El código fuente completo y la documentación del proyecto están disponibles en el repositorio de GitHub. Allí pueden encontrar instrucciones detalladas sobre cómo usar la aplicación y contribuir a su desarrollo. Además, pueden abrir Issues para reportar errores o pedir nuevas características.
 
-**Enlace al repositorio:** https://github.com/usuario/amigo-secreto
+**Enlace al repositorio:** https://taniahernandeza.github.io/Amigo_secreto/
 
 **Comunidad en Alura Latam:** Si se tienen dudas específicas sobre la implementación o el uso de los conceptos de JavaScript utilizados en el proyecto, los usuarios pueden recurrir a la comunidad de Alura Latam, donde podrán encontrar recursos adicionales y respuestas a preguntas comunes.
 
