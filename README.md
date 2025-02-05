@@ -21,9 +21,15 @@ emparejamientos aleatorios.
 
 ## 📁 Acceso al proyecto:
 
-**Los usuarios pueden encontrar ayuda sobre el proyecto en el repositorio de GitHub, donde está disponible la documentación relacionada con el funcionamiento de la aplicación, el código fuente y 
-posibles preguntas frecuentes. Si surgen dudas o problemas al utilizar la aplicación, los usuarios pueden revisar los issues en GitHub o 
-contactar a los desarrolladores a través de las vías de comunicación establecidas en el repositorio.**
+Los usuarios pueden encontrar ayuda y soporte sobre el proyecto en varias fuentes:
+
+**Repositorio de GitHub:** El código fuente completo y la documentación del proyecto están disponibles en el repositorio de GitHub. Allí pueden encontrar instrucciones detalladas sobre cómo usar la aplicación y contribuir a su desarrollo. Además, pueden abrir Issues para reportar errores o pedir nuevas características.
+
+**Enlace al repositorio:** https://github.com/usuario/amigo-secreto
+
+**Comunidad en Alura Latam:** Si se tienen dudas específicas sobre la implementación o el uso de los conceptos de JavaScript utilizados en el proyecto, los usuarios pueden recurrir a la comunidad de Alura Latam, donde podrán encontrar recursos adicionales y respuestas a preguntas comunes.
+
+**Foros y Redes Sociales:** Los usuarios también pueden unirse a foros en línea o buscar grupos en redes sociales relacionados con el curso de Alura Latam, donde otros estudiantes y desarrolladores pueden ofrecer ayuda y compartir experiencias.
 
 ## Autor:
 
